@@ -4,6 +4,8 @@ I’m a software engineering student at UIT University. I build full-stack appli
 
 ## Featured on GitHub
 
+**[Telegram Web Clone](https://github.com/saadh472/telegram-clone)** is a Flask and JavaScript messaging app with direct and group chats, attachments, reactions, and a local SQLite demo.
+
 **FoodHeaven** is an employee management portal prototype with separate repositories for the dashboard and backend.
 
 - [FoodHeaven-UI](https://github.com/saadh472/FoodHeaven-UI) — HTML, CSS, and JavaScript screens for attendance, payroll, and shift scheduling.
