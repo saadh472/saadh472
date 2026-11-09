@@ -1,19 +1,21 @@
 # Hi, I’m Saad
 
-I’m a software engineering student at UIT University. I build full-stack applications with Spring Boot, React, and TypeScript, and use Python to explore machine learning.
+I’m a software engineering student at UIT University. I build full-stack web apps that turn document uploads, messages, and transactions into workflows people can use.
 
-## Featured on GitHub
+**Core stack** · Java, Spring Boot, React, TypeScript, Python, Flask, and SQL · [LinkedIn](https://www.linkedin.com/in/syedmsaad/)
 
-**[ATM FSM Simulator](https://github.com/saadh472/atm-fsm-simulator)** visualizes Mealy and Moore state transitions. Flask validates each action, and SQLite stores demo account balances and transaction history.
+## Featured projects
 
-**[Telegram Web Clone](https://github.com/saadh472/telegram-clone)** is a Flask and JavaScript messaging app with direct and group chats, attachments, reactions, and a local SQLite demo.
+- **[Intelligent Document Processing Pipeline](https://github.com/saadh472/intelligent-document-processing-pipeline)** — Extracts and classifies text from PDF, DOCX, and TXT uploads. A React dashboard tracks each stage as documents are processed.  
+  `Java` `Spring Boot` `React` `TypeScript`
 
-**FoodHeaven** is an employee management portal prototype with separate repositories for the dashboard and backend.
+- **[ATM FSM Simulator](https://github.com/saadh472/atm-fsm-simulator)** — Visualizes Mealy and Moore state transitions. Flask validates ATM actions, and SQLite keeps account history and prevents duplicate debits on retry.  
+  `Python` `Flask` `SQLite` `JavaScript`
 
-- [FoodHeaven-UI](https://github.com/saadh472/FoodHeaven-UI) — HTML, CSS, and JavaScript screens for attendance, payroll, and shift scheduling.
-- [FoodHeaven-API](https://github.com/saadh472/FoodHeaven-API) — A Flask API prototype that connects to SQL Server and retrieves employee records.
+- **[Telegram Web Clone](https://github.com/saadh472/telegram-clone)** — A messaging prototype with direct and group chats, attachments, reactions, and a local demo.  
+  `Python` `Flask` `SQLite` `JavaScript`
 
-## Other projects
+## More work
 
-- **Voice automation hub** — A Spring Boot API and React interface that turn voice input into commands.
-- **Weather forecasting** — A Python workflow for training and evaluating weather prediction models with scikit-learn.
+- **FoodHeaven** · Employee management prototype with attendance, payroll, and scheduling screens. [Dashboard UI](https://github.com/saadh472/FoodHeaven-UI) · [Flask API](https://github.com/saadh472/FoodHeaven-API)
+- **Coursework** · A voice-controlled automation hub using Spring Boot and React, and weather forecasting with Python and scikit-learn.
