@@ -4,6 +4,8 @@ I’m a software engineering student at UIT University. I build full-stack appli
 
 ## Featured on GitHub
 
+**[ATM FSM Simulator](https://github.com/saadh472/atm-fsm-simulator)** visualizes Mealy and Moore state transitions. Flask validates each action, and SQLite stores demo account balances and transaction history.
+
 **[Telegram Web Clone](https://github.com/saadh472/telegram-clone)** is a Flask and JavaScript messaging app with direct and group chats, attachments, reactions, and a local SQLite demo.
 
 **FoodHeaven** is an employee management portal prototype with separate repositories for the dashboard and backend.
