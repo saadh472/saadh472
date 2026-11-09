@@ -1,6 +1,8 @@
 # Hi, I’m Saad
 
-I’m a software engineering student at UIT University. I build full-stack web apps that turn document uploads, messages, and transactions into workflows people can use.
+I’m a software engineering student at UIT University with hands-on experience building full-stack applications using Java, Spring Boot, React, and TypeScript. I focus on REST APIs, software design patterns, and maintainable application architecture.
+
+My projects span voice-controlled automation, document processing, and messaging systems. I also work with Python for data analysis and machine learning, including weather forecasting.
 
 **Core stack** · Java, Spring Boot, React, TypeScript, Python, Flask, and SQL · [LinkedIn](https://www.linkedin.com/in/syedmsaad/)
 
