@@ -17,5 +17,5 @@ I’m a software engineering student at UIT University with hands-on experience 
 
 ## More work
 
-- **FoodHeaven** · Employee management prototype with attendance, payroll, and scheduling screens. [Dashboard UI](https://github.com/saadh472/FoodHeaven-UI) · [Flask API](https://github.com/saadh472/FoodHeaven-API)
+- **[FoodHeaven](https://github.com/saadh472/foodheaven)** · Employee management portal with a JavaScript dashboard and Flask API.
 - **Coursework** · A voice-controlled automation hub using Spring Boot and React, and weather forecasting with Python and scikit-learn.
