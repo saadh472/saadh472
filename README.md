@@ -23,10 +23,12 @@ Each repository includes local setup instructions and documents its demo scope a
 
 | Area | Technologies |
 | --- | --- |
-| Frontend | React · TypeScript · JavaScript · HTML5 · CSS3 |
-| Backend | Java · Spring Boot · Python · Flask · REST APIs |
-| Databases | SQLite · SQL Server · H2 · SQL |
-| Tools and quality | Git · GitHub Actions · Maven · npm · JUnit · Python unittest |
+| Frontend | React · TypeScript · JavaScript · HTML5 · CSS3 · Vite |
+| Backend | Java · Spring Boot · Spring Security · Python · Flask |
+| Databases and access | SQLite · SQL Server · H2 · SQL · JDBC · JPA/Hibernate |
+| APIs and document processing | REST APIs · WebSockets · Flyway · Apache Tika |
+| Build and delivery | Git · GitHub Actions · Maven · npm · Docker configuration |
+| Testing | JUnit · Jest · Vitest · jsdom · Python unittest |
 
 I apply these tools to responsive interfaces, keyboard accessibility, input validation, session authentication, and reliable database transactions.
 
