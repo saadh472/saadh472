@@ -6,6 +6,8 @@ I build web applications with Java, Spring Boot, React, and TypeScript, and deve
 
 [LinkedIn](https://www.linkedin.com/in/syedmsaad/) · [Explore my repositories](https://github.com/saadh472?tab=repositories)
 
+![Tech stack: React, TypeScript, Java, Spring Boot, Python, Flask, SQLite, SQL Server, and development tools](assets/tech-stack.svg)
+
 ## Selected projects
 
 | Project | Engineering highlights |
