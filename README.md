@@ -17,10 +17,15 @@ I build web applications with Java, Spring Boot, React, and TypeScript, and deve
 
 Each repository includes local setup instructions and documents its demo scope and limitations.
 
-## Technical focus
+## Tech stack
 
-- **Frontend:** React, TypeScript, JavaScript, HTML, CSS, responsive layouts, and keyboard accessibility.
-- **Backend and data:** Java, Spring Boot, Python, Flask, REST APIs, SQL, SQLite, SQL Server, and H2.
-- **Engineering practices:** Git, GitHub Actions, automated tests, input validation, transaction handling, and documented local setup.
+| Area | Technologies |
+| --- | --- |
+| Frontend | React · TypeScript · JavaScript · HTML5 · CSS3 |
+| Backend | Java · Spring Boot · Python · Flask · REST APIs |
+| Databases | SQLite · SQL Server · H2 · SQL |
+| Tools and quality | Git · GitHub Actions · Maven · npm · JUnit · Python unittest |
+
+I apply these tools to responsive interfaces, keyboard accessibility, input validation, session authentication, and reliable database transactions.
 
 I'm continuing to strengthen application architecture and test coverage through practical projects.
