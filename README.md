@@ -1,21 +1,26 @@
-# Hi, I’m Saad
+# Hi, I'm Saad
 
-I’m a software engineering student at UIT University with hands-on experience building full-stack applications using Java, Spring Boot, React, and TypeScript. I focus on REST APIs, software design patterns, and maintainable application architecture.
+**Software engineering student at UIT University · Full-stack development**
 
-**Core stack** · Java, Spring Boot, React, TypeScript, Python, Flask, and SQL · [LinkedIn](https://www.linkedin.com/in/syedmsaad/)
+I build web applications with Java, Spring Boot, React, and TypeScript, and develop Python APIs with Flask. I focus on clear API design, relational databases, and reliable user workflows.
 
-## Featured projects
+[LinkedIn](https://www.linkedin.com/in/syedmsaad/) · [Explore my repositories](https://github.com/saadh472?tab=repositories)
 
-- **[Intelligent Document Processing Pipeline](https://github.com/saadh472/intelligent-document-processing-pipeline)** — Extracts and classifies text from PDF, DOCX, and TXT uploads. A React dashboard tracks each stage as documents are processed.  
-  `Java` `Spring Boot` `React` `TypeScript`
+## Selected projects
 
-- **[ATM FSM Simulator](https://github.com/saadh472/atm-fsm-simulator)** — Visualizes Mealy and Moore state transitions. Flask validates ATM actions, and SQLite keeps account history and prevents duplicate debits on retry.  
-  `Python` `Flask` `SQLite` `JavaScript`
+| Project | Engineering highlights |
+| --- | --- |
+| **[Document Processing Pipeline](https://github.com/saadh472/intelligent-document-processing-pipeline)**<br>Java · Spring Boot · React · TypeScript | PDF, DOCX, and TXT uploads with text extraction, rule-based classification, and processing-stage tracking. [Automated checks](https://github.com/saadh472/intelligent-document-processing-pipeline/actions/workflows/quality.yml) |
+| **[FoodHeaven](https://github.com/saadh472/foodheaven)**<br>Python · Flask · JavaScript · SQLite | Employee CRUD, payroll, and shift scheduling with session authentication, CSRF protection, accessible controls, and failed-request recovery. [Automated checks](https://github.com/saadh472/foodheaven/actions/workflows/quality.yml) |
+| **[ATM FSM Simulator](https://github.com/saadh472/atm-fsm-simulator)**<br>Python · Flask · SQLite | Mealy and Moore state visualizations backed by validated ATM actions, persistent transactions, and protection against duplicate debits on retry. [Automated checks](https://github.com/saadh472/atm-fsm-simulator/actions/workflows/quality.yml) |
+| **[Telegram Web Clone](https://github.com/saadh472/telegram-clone)**<br>Python · Flask · JavaScript · SQLite | A messaging prototype with direct and group chats, attachments, and reactions through a layered REST API. [Automated checks](https://github.com/saadh472/telegram-clone/actions/workflows/quality.yml) |
 
-- **[Telegram Web Clone](https://github.com/saadh472/telegram-clone)** — A messaging prototype with direct and group chats, attachments, reactions, and a local demo.  
-  `Python` `Flask` `SQLite` `JavaScript`
+Each repository includes local setup instructions and documents its demo scope and limitations.
 
-## More work
+## Technical focus
 
-- **[FoodHeaven](https://github.com/saadh472/foodheaven)** · Employee management portal with a JavaScript dashboard and Flask API.
-- **Coursework** · A voice-controlled automation hub using Spring Boot and React, and weather forecasting with Python and scikit-learn.
+- **Frontend:** React, TypeScript, JavaScript, HTML, CSS, responsive layouts, and keyboard accessibility.
+- **Backend and data:** Java, Spring Boot, Python, Flask, REST APIs, SQL, SQLite, SQL Server, and H2.
+- **Engineering practices:** Git, GitHub Actions, automated tests, input validation, transaction handling, and documented local setup.
+
+I'm continuing to strengthen application architecture and test coverage through practical projects.
