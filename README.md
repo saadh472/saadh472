@@ -17,8 +17,6 @@ I build web applications with Java, Spring Boot, React, and TypeScript, and deve
 | **[ATM FSM Simulator](https://github.com/saadh472/atm-fsm-simulator)**<br>Python · Flask · SQLite | Mealy and Moore state visualizations backed by validated ATM actions, persistent transactions, and protection against duplicate debits on retry. [Automated checks](https://github.com/saadh472/atm-fsm-simulator/actions/workflows/quality.yml) |
 | **[Telegram Web Clone](https://github.com/saadh472/telegram-clone)**<br>Python · Flask · JavaScript · SQLite | A messaging prototype with direct and group chats, attachments, and reactions through a layered REST API. [Automated checks](https://github.com/saadh472/telegram-clone/actions/workflows/quality.yml) |
 
-Each repository includes local setup instructions and documents its demo scope and limitations.
-
 ## Tech stack
 
 | Area | Technologies |
